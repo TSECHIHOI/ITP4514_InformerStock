@@ -1,6 +1,6 @@
 # ITP4514_InformerStock
 
-Requirements
+# Requirements
 Python 3.6
 matplotlib == 3.1.1
 numpy == 1.19.4
